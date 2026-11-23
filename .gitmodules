@@ -1,0 +1,33 @@
+[submodule "n5"]
+	path = n5
+	url = git@github.com:saalfeldlab/n5.git
+[submodule "n5-aws-s3"]
+	path = n5-aws-s3
+	url = git@github.com:saalfeldlab/n5-aws-s3.git
+[submodule "n5-blosc"]
+	path = n5-blosc
+	url = git@github.com:saalfeldlab/n5-blosc.git
+[submodule "n5-google-cloud"]
+	path = n5-google-cloud
+	url = git@github.com:saalfeldlab/n5-google-cloud.git
+[submodule "n5-hdf5"]
+	path = n5-hdf5
+	url = git@github.com:saalfeldlab/n5-hdf5.git
+[submodule "n5-ij"]
+	path = n5-ij
+	url = git@github.com:saalfeldlab/n5-ij.git
+[submodule "n5-imglib2"]
+	path = n5-imglib2
+	url = git@github.com:saalfeldlab/n5-imglib2.git
+[submodule "n5-universe"]
+	path = n5-universe
+	url = git@github.com:saalfeldlab/n5-universe.git
+[submodule "n5-viewer"]
+	path = n5-viewer
+	url = git@github.com:saalfeldlab/n5-viewer.git
+[submodule "n5-zarr"]
+	path = n5-zarr
+	url = git@github.com:saalfeldlab/n5-zarr.git
+[submodule "n5-zstandard"]
+	path = n5-zstandard
+	url = git@github.com:JaneliaSciComp/n5-zstandard.git
