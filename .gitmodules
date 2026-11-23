@@ -31,3 +31,9 @@
 [submodule "n5-zstandard"]
 	path = n5-zstandard
 	url = git@github.com:JaneliaSciComp/n5-zstandard.git
+[submodule "n5-factory-spi"]
+	path = n5-factory-spi
+	url = git@github.com:saalfeldlab/n5-factory-spi.git
+[submodule "n5-factory"]
+	path = n5-factory
+	url = git@github.com:saalfeldlab/n5-factory.git
